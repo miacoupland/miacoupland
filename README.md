@@ -1,17 +1,17 @@
 # Hello! 👋
 
-My name is Mia and I'm based in the North East of England. Since completing my MSc in Computer Science I have been working as a Software Developer since 2021.
+My name is Mia and I'm based in the North East of England. Since completing my MSc in Computer Science I have been working as a Software Developer since 2021. Day to day I use Angular and C#, as a primarily front-end developer who is becoming full stack. I have experience of Java at university, and I have studied Python, Lua, and various other technologies for fun.
 My favourite computing pursuits are web dev, Raspberry Pi projects, and retro console homebrews.
 - Contact me via <a href="https://www.linkedin.com/in/mia-coupland/">LinkedIn</a>
 
 ## Education and experience
-- MSc in Computer Science (2020-2022)
 - BA(Hons) in History (2017-2020)
+- MSc in Computer Science (2020-2022)
 
 - Junior Software Developer @ Procter & Gamble (June - November 2021)
 - Software Developer @ Cambridge University Press & Assessment (November 2021 - Present)
 
-## Skills & Technologies
+## Skills, Tools, & Technologies
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,6 +24,8 @@ My favourite computing pursuits are web dev, Raspberry Pi projects, and retro co
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)

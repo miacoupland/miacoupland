@@ -8,8 +8,8 @@ My name is Mia and I'm based in the North East of England. Since completing my M
 - 🌌 [My Github Resume](https://resume.github.io/?miacoupland)
 
 ## Education and experience
-- BA(Hons) in History (2017-2020)
-- MSc in Computer Science (2020-2022)
+- BA(Hons) in History (2017-2020) @ The University of Manchester
+- MSc in Computer Science (2020-2022) @ Newcastle University
 
 - Junior Software Developer @ Procter & Gamble (June - November 2021)
 - Software Developer @ Cambridge University Press & Assessment (November 2021 - Present)

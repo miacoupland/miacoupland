@@ -12,7 +12,8 @@ My name is Mia and I'm based in the North East of England. Since completing my M
 - MSc in Computer Science (2020-2022) @ Newcastle University
 
 - Junior Software Developer @ Procter & Gamble (June - November 2021)
-- Software Developer @ Cambridge University Press & Assessment (November 2021 - Present)
+- Software Developer @ Cambridge University Press & Assessment (November 2021 - June 2023)
+- Software Developer @ GL Education (June 2023 - Present)
 
 ## Skills, Tools, & Technologies
 ##### Frontend related usage

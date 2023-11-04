@@ -1,9 +1,9 @@
 # Hello! 👋
 
-My name is Mia and I'm based in the North East of England. Since completing my MSc in Computer Science I have been working as a Software Developer since 2021. Day to day I use Angular and C#, as a primarily front-end developer who is becoming full stack. I have experience of Java at university, and I have studied Python, Lua, and various other technologies for fun. My favourite computing pursuits are web dev, Raspberry Pi projects, and retro console homebrews.
+My name is Mia and I'm based in the North East of England. Since completing my MSc in Computer Science I have been working as a Software Developer since 2021. Day to day I am a web developer, primarily using Angular and C#. I have experience of Java at university, and I have studied Python, Lua, and various other technologies for fun. My favourite computing pursuits are web dev, Raspberry Pi projects, and retro console homebrews.
 
 - 🌱 Currently studying: C# for work and Lua for fun!
-- ⚡ Current OS: Manjaro w/ KDE
+- ⚡ Current OS: Dualboot Windows 10, Manjaro w/ KDE & Linux Mint
 - 💫 Contact me via <a href="https://www.linkedin.com/in/mia-coupland/">LinkedIn</a>
 - 🌌 [My Github Resume](https://resume.github.io/?miacoupland)
 

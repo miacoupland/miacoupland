@@ -45,8 +45,3 @@ My name is Mia and I'm based in the North East of England. I moved here to compl
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-
-[![miacoupland's GitHub stats](https://github-readme-stats.vercel.app/api?username=miacoupland&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miacoupland&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

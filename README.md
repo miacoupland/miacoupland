@@ -15,9 +15,9 @@ My favourite computing pursuits are web dev, Raspberry Pi projects, and retro co
 - BA(Hons) in History (2017-2020) @ The University of Manchester
 - MSc in Computer Science (2020-2022) @ Newcastle University
 
-- Junior Software Developer @ Procter & Gamble (June - November 2021)
 - Software Developer @ Cambridge University Press & Assessment (November 2021 - June 2023)
-- Software Developer @ GL Education (June 2023 - Present)
+- Software Developer @ Renaissance (June 2023 - October 2024)
+- Senior Software Developer @ Renaissance (October 2024 - Present)
 
 ## Skills, Tools, & Technologies
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)

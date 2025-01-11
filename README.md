@@ -6,8 +6,8 @@ I have experience of Java at university, and I have studied Python, Lua, and var
 
 My favourite computing pursuits are web dev, Raspberry Pi projects, and retro console homebrews.
 
-- 🌱 Currently studying: Terraform
-- ⚡ Current OS: Dualboot Windows 10, Manjaro w/ KDE & Linux Mint
+- 🌱 Currently studying: AZ-900
+- ⚡ Current OS: Garuda w/ Hyprland
 - 💫 Contact me via <a href="https://www.linkedin.com/in/mia-coupland/">LinkedIn</a>
 - 🌌 [My Github Resume](https://resume.github.io/?miacoupland)
 
